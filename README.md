@@ -4,7 +4,7 @@
 
 🎓 I am a first-year at UNC-Chapel Hill. I intend to double major in Computer Science and Biostatistics. I want to explore the intersection between computer and health sciences, and I hope to study bioinformatics in the future.
 
-🔍 I plan to get involved in research here at UNC as soon as possible. In high school, I researched fetal alcohol spectrum disorders (FASDs) at the ECU neuroscience lab as a part of the SVSM program. I am currently looking to get involved in computational health research in Chapel Hill. Additionally, I will join a machine learning project as a member of the AI Club.
+🔎 I plan to get involved in research here at UNC as soon as possible. In high school, I researched fetal alcohol spectrum disorders (FASDs) at the ECU neuroscience lab as a part of the SVSM program. I am currently looking to get involved in computational health research in Chapel Hill. Additionally, I will join a machine learning project as a member of the AI Club.
 
 👨‍🦯‍➡️ I am also passionate about accessibility! I want to help make digital spaces more accessible to people with disabilities.
 
