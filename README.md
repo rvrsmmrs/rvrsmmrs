@@ -1,10 +1,26 @@
+👋 Hey, nice to meet you! I'm River!
+
 ## About Me
-Hey! I'm River, a first year at UNC-CH. I intend to double major in computer science and biostatistics, with the eventual goal of studying bioinformatics.
 
-### Classes
-I am currently enrolled in COMP 110 and COMP 290
+🎓 I am a first-year at UNC-Chapel Hill. I intend to double major in Computer Science and Biostatistics. I want to explore the intersection between computer and health sciences, and I hope to study bioinformatics in the future.
 
-### Tools and Programming Languages
-- Python
-- Git
-- Docker
+🔍 I plan to get involved in research here at UNC as soon as possible. In high school, I researched fetal alcohol spectrum disorders (FASDs) at the ECU neuroscience lab as a part of the SVSM program. I am currently looking to get involved in computational health research in Chapel Hill. Additionally, I will join a machine learning project as a member of the AI Club.
+
+👨‍🦯‍➡️ I am also passionate about accessibility! I want to help make digital spaces more accessible to people with disabilities.
+
+🎸 Outside of class, I play guitar, draw, paint, and woodwork. If you are looking for a guitarist for a rock/grunge/alt band let me know!
+
+## Classes
+
+💻 COMP 110 - While I already have a strong foundation in python, I am taking the introductory computer science course at UNC.
+
+🔧 COMP 290 - Hey TAs! I've learned a lot about important computer science tools, including git and docker, which have already been extremely useful in my own projects.
+
+📈 Math 233 - Learning the basics of linear algebra and vector calculus has greatly helped my understanding of machine learning concepts.
+
+## Programming Languages and Libraries
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)	![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)
+
+## Tools
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+ 
