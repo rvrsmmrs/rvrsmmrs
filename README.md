@@ -4,7 +4,7 @@ s👋 Hey, nice to meet you! I'm River!
 
 🎓 I am a first-year at UNC-Chapel Hill. I intend to double major in Computer Science and Biostatistics. I want to explore the intersection between computer and health sciences, and I hope to study bioinformatics in the future.
 
-🔎 I plan to get involved in research here at UNC as soon as possible. I am currently looking to get involved in computational health research in Chapel Hill. As a member of the AI Club at UNC, I am working on a convolutional neural network to locate ecDNA from medical imagery. In high school, I researched fetal alcohol spectrum disorders (FASDs) at the ECU neuroscience lab as a part of the SVSM program.
+🔎 I am currently looking to get involved in computational health research in Chapel Hill. As a member of the AI Club at UNC, I am working on a convolutional neural network to locate ecDNA from medical imagery. In high school, I researched fetal alcohol spectrum disorders (FASDs) at the ECU neuroscience lab as a part of the SVSM program.
 
 👨‍🦯‍➡️ I am also passionate about accessibility! I want to help make digital spaces more accessible to people with disabilities.
 
