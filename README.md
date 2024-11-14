@@ -1,4 +1,4 @@
-s👋 Hey, nice to meet you! I'm River!
+👋 Hey, nice to meet you! I'm River!
 
 ## About Me
 
