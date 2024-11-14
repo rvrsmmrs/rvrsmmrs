@@ -19,7 +19,7 @@
 📈 Math 233 - Learning the basics of linear algebra and vector calculus has greatly helped my understanding of machine learning concepts.
 
 ## Programming Languages and Libraries
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)	![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)	![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 
 ## Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
