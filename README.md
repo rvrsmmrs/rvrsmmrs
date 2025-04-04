@@ -8,7 +8,7 @@
 
 👨‍🦯‍➡️ I am also passionate about accessibility! I want to help make digital spaces more accessible to people with disabilities.
 
-🎸 Outside of class, I play guitar, draw, paint, and woodwork. If you are looking for a guitarist for a rock/grunge/alt band let me know!
+🎸 Outside of class, I play guitar, draw, paint, and woodwork.
 
 ## Classes
 
